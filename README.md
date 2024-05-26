@@ -26,15 +26,13 @@ She/Her
 - or just spark a conversation
 
 # 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/geethika-tiramdas)
-[Email](geethika.tiramdas@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/geethika-tiramdas)
+- [Email](geethika.tiramdas@gmail.com)
 
 # 🌐 My Websites:
-[Blog](https://www.betweentheverses.in/)
-[Portfolio]()
+- [Blog](https://www.betweentheverses.in/)
+- [Portfolio]()
 
 # 🌅💭 I resonate with:
-"Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
-"Code is like humor. When you have to explain it, it’s bad." - Cory House
-
-󠀢
+- "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
+- "Code is like humor. When you have to explain it, it’s bad." - Cory House
