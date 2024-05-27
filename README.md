@@ -34,5 +34,6 @@ She/Her
 - [Portfolio]()
 
 # 🌅💭 I resonate with:
+- "When the facts change, we change our minds" - John Maynard Keynes
 - "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
 - "Code is like humor. When you have to explain it, it’s bad." - Cory House
