@@ -31,7 +31,7 @@ She/Her
 
 # 🌐 My Websites:
 - <a href="https://www.betweentheverses.in/" target="_blank">Blog</a>
-- <a href="[geethika.tiramdas@gmail.com](https://tiramdasg.github.io/)" target="_blank">Portfolio</a>
+- <a href="https://tiramdasg.github.io/" target="_blank">Portfolio</a>
 
 # 🌅💭 I resonate with:
 - "When the facts change, we change our minds" - John Maynard Keynes
