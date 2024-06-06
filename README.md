@@ -26,12 +26,12 @@ She/Her
 - or just spark a conversation
 
 # 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/geethika-tiramdas)
-- [Email](geethika.tiramdas@gmail.com)
+- <a href="https://www.linkedin.com/in/geethika-tiramdas" target="_blank">LinkedIn</a>
+- <a href="geethika.tiramdas@gmail.com" target="_blank">Email</a>
 
 # 🌐 My Websites:
-- [Blog](https://www.betweentheverses.in/)
-- [Portfolio](https://tiramdasg.github.io/)
+- <a href="https://www.betweentheverses.in/" target="_blank">Blog</a>
+- <a href="[geethika.tiramdas@gmail.com](https://tiramdasg.github.io/)" target="_blank">Portfolio</a>
 
 # 🌅💭 I resonate with:
 - "When the facts change, we change our minds" - John Maynard Keynes
