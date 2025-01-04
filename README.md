@@ -6,8 +6,12 @@ I am a Master's student at [Hamburg University of Technology](https://www.tuhh.d
 She/Her
 
 # 🔭 I’m currently working on
-- Research project titled "Insecure Code Reproduction and Vulnerability Assessment on Github’s Copilot"
-- Federated Sentiment Analysis on Reddit comments using big data concepts
+- Master Thesis titled: "[Developing CAN (Control Area Network) Intrusion detection System (IDS) using Machine Learning with Datasets based on Real Life Traffic Scenarios](https://tiramdasg.github.io/projects/thesis)"
+
+# ✔️ Recently finished projects:
+- Research project titled: "[Vulnerabilities and Insecure Training Data Memorisation in GitHub Copilot: Does Context Play a Role?](https://tiramdasg.github.io/projects/github-copilot-project)"
+- [Federated Sentiment Analysis on Reddit comments using big data concepts](https://tiramdasg.github.io/projects/federated-sentiment-analysis)
+- More details [here](https://tiramdasg.github.io/)
 
 # 🌱 I’m currently learning
 - Machine Learning & AI
